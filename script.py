@@ -10,7 +10,7 @@ See <i>/help</i> for commands and more details.</b>
 
 
     HELP_MSG = """
-<i>Add me as admin in your group and start filtering :)</i>
+<i>Add me as admin in your group and start filtering  To use me add to your group i will provide files there☑️:)</i>
 
 
 <b>Basic Commands;</b>
@@ -48,11 +48,11 @@ See <i>/help</i> for commands and more details.</b>
 <code>/info userid</code>  -  Shows User Information. Use <code>/info</code> as reply to some message for their details!
 
 
-<b>© @TroJanzHEX</b>
+<b>© @pushpa_Reju</b>
 """
 
 
-    ABOUT_MSG = """⭕️<b>My Name : Tg pushparejus Bot</b>
+    ABOUT_MSG = """⭕️<b>My Name : 𝗥𝗼𝗰𝗸𝗶𝗕𝗵𝗮𝗶</b>
 
 ⭕️<b>Creater :</b> @pushpa_Reju    
 
